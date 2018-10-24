@@ -15,8 +15,6 @@ This course gives you a comprehensive overview of List and Recycler Views
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you’re new to programming or are a programmer coming from Java who wants to learn Kotlin for Android, this is the course for you.
-### Technical Requirements
-This course has the following software requirements:<br/>
   
 
 ## Related Products
